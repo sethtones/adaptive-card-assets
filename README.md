@@ -1,6 +1,6 @@
 this is a repo for assets i make for adaptive cards at work that are generalized enough to use elsewhere
 
-i'll provide the affinity files at some point too
+affinity project files included
 
 you can do whatever you want with these, i really don't care. all assets used in the images themselves are from svgrepo. 
 
