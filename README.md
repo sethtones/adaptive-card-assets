@@ -1,7 +1,11 @@
-this is a repo for assets i make for adaptive cards at work that are generalized enough to use elsewhere
 
-affinity project files included
 
-you can do whatever you want with these, i really don't care. all assets used in the images themselves are from svgrepo. 
+This is a repo for assets I made to use at work for alerting our team and the userbase via Teams Adaptive cards.
 
-maybe someday i'll also work on pwsh adaptive-card module stuff and put it here, but as of now that is not my focus
+These are generalized enough to use elsewhere. Mayhaps at your own company if you so desire.
+
+I have included the affinity project files as well for your own modifications.
+
+You can do whatever you want with these, I really don't care. All assets used in the images themselves are from svgrepo asides from the Deployment BG, which is an edited version of Microsoft's Windows 95 installer background. 
+
+A powershell module for sending adaptive cards is currently in the works, but I am unsure if/when I will release it. 
